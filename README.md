@@ -1,19 +1,24 @@
-<h1 align="center">👋 Hey there, I'm Sajid Hameed Wani</h1>
+<p align="center">
+  <h1 align="center">👋 Hey there, I'm Sajid Hameed Wani</h1>
+</p>
 
-<h3 align="center">🚀 Aspiring Software Developer | Backend & AI/ML Enthusiast</h3>
+<h3 align="center">🚀 B.Tech Student | Aspiring Software & Backend Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Sajid%20Hameed%20Wani;B.Tech%20Student%20at%20IIIT%20Bhubaneswar;Aspiring%20Backend%20Developer;Learning%20AI%20%26%20Machine%20Learning;Building%20Projects%20and%20Solving%20Problems&font=Fira%20Code&center=true&width=850&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I'm+Sajid+Hameed+Wani;B.Tech+Student+at+IIIT+Bhubaneswar;Aspiring+Backend+Developer;Learning+AI%2FML+and+Building+Projects;Always+Learning+and+Exploring+Technology&font=Fira%20Code&center=true&width=850&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=22" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=✅+Open+to+Learning+and+Opportunities" alt="Open to Opportunities" />
-</p>
+  <a href="https://github.com/SajidHameed2120">
+    <img src="https://img.shields.io/badge/GitHub-SajidHameed2120-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<!-- My CV -->
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1iJIzg_cuzl1c9zX1cjHgZyjvBick9nGd" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-005020?style=for-the-badge&logo=googledrive&logoColor=white" alt="My CV"/>
+  <a href="https://leetcode.com/u/Sajid-Hameed/">
+    <img src="https://img.shields.io/badge/LeetCode-Sajid--Hameed-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://drive.google.com/drive/folders/1iJIzg_cuzl1c9zX1cjHgZyjvBick9nGd">
+    <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
@@ -21,81 +26,100 @@
 
 ## 💫 About Me
 
-- 🎓 **B.Tech Student** at **IIIT Bhubaneswar**
-- 💻 Interested in **Backend Development, Software Development, and Problem Solving**
-- 🐍 Working with **Python, C, and C++**
-- 🤖 Currently learning **Artificial Intelligence, Machine Learning, and AI/ML Mathematics**
-- 📊 Exploring **NumPy, Pandas, Scikit-learn**, and data analysis
-- ⚙️ Learning backend development using **FastAPI** and REST APIs
-- 🧠 Practicing **Data Structures & Algorithms** and Object-Oriented Programming
-- 🔬 Interested in **Quantum Computing, Superconductors, Semiconductors, and Robotics**
-- 🚀 Passionate about building projects and continuously improving my technical skills
+* 🎓 B.Tech student in **Electrical and Electronics Engineering** at **IIIT Bhubaneswar**
+* 💻 Interested in **Software Development, Backend Development, AI/ML, and Problem Solving**
+* 🐍 Comfortable with **Python, C, and C++**
+* 🌐 Currently building my skills in **Web Development and Backend Development**
+* 🤖 Learning **Machine Learning** using **NumPy, Pandas, and Scikit-learn**
+* 🧠 Exploring **Data Structures & Algorithms, OOP, APIs, and Database Systems**
+* ⚛️ Interested in **AI/ML, Quantum Computing, Robotics, Semiconductors, and Superconductors**
+* 🔨 I enjoy learning by **building projects and solving real-world problems**
+* 🚀 Currently improving my development skills through projects and collaboration
 
 ---
 
-## 🧠 Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
 
-  <!-- Programming Languages -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="45" title="C"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>
+<!-- Programming Languages -->
 
-  <!-- Web Development -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="45" title="C"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
 
-  <!-- Backend -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>
+<!-- Web Development -->
 
-  <!-- AI / ML -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="45" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-learn"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
 
-  <!-- Developer Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" title="GitHub"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter Notebook"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" title="Postman"/>
+<!-- Python Libraries -->
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" title="Scikit-learn"/>
+
+<!-- Tools -->
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" title="Git"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" title="GitHub"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman"/>
+
+<!-- Engineering -->
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="45" title="MATLAB"/>
 
 </p>
 
 ---
 
-## 🌐 Platforms I Frequently Visit
+## 🚀 Featured Projects
 
-<p align="center">
+### 😂 Python Joke Generator
 
-  <a href="https://leetcode.com/u/Sajid-Hameed/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+A Python application that fetches random jokes from an external API using the `requests` library.
 
-  <a href="https://github.com/SajidHameed2120" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-</p>
+**Tech:** Python | REST API | Requests
 
 ---
 
-## 🛠️ Development & Application Tools
+### 📊 Mutual Fund Analytics
 
-<p align="center">
+A project focused on analyzing mutual fund-related data and generating useful insights from financial datasets.
 
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+**Tech:** Python | Data Analysis | Pandas
 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+🔗 **Repository:** https://github.com/SajidHameed2120/MutualFundAnalytics
 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+---
 
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+### 🧑‍🎓 Student Database Management System
 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+A C-based application using **structures and file handling** to manage student records, perform CRUD operations, calculate averages, and identify top-performing students.
 
-</p>
+**Tech:** C | Structures | File Handling
+
+---
+
+### 🤖 Smart IoT Automation System
+
+An IoT-based automation project for controlling electrical appliances such as lights and fans through a mobile application.
+
+**Tech:** ESP32 | ESP RainMaker | IoT | Google Assistant
+
+---
+
+## 🌱 Currently Learning
+
+* 🌐 Web Development
+* ⚙️ Backend Development
+* 🐍 Advanced Python
+* 🧠 Data Structures & Algorithms
+* 🤖 Machine Learning
+* 📊 Data Analysis
+* 🔗 REST APIs
+* 🐙 Git & GitHub
 
 ---
 
@@ -103,28 +127,28 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/sajid-hameed-wani-a18467378/" target="_blank">
-    <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
-  </a>
+<a href="https://github.com/SajidHameed2120">
+  <img src="https://cdn.simpleicons.org/github/white" width="45" height="45" alt="GitHub"/>
+</a>
 
-  &nbsp;&nbsp;&nbsp;
+  
 
-  <a href="mailto:sajidhameedwani@gmail.com" target="_blank">
-    <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
-  </a>
+<a href="https://leetcode.com/u/Sajid-Hameed/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode"/>
+</a>
 
-  &nbsp;&nbsp;&nbsp;
+  
 
-  <a href="https://github.com/SajidHameed2120" target="_blank">
-    <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/github.svg" width="48" height="48" alt="GitHub"/>
-  </a>
+<a href="https://drive.google.com/drive/folders/1iJIzg_cuzl1c9zX1cjHgZyjvBick9nGd">
+  <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="45" height="45" alt="Resume"/>
+</a>
 
-  &nbsp;&nbsp;&nbsp;
+</p>
 
-  <a href="https://leetcode.com/u/Sajid-Hameed/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode"/>
-  </a>
-
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1iJIzg_cuzl1c9zX1cjHgZyjvBick9nGd">📄 View My Resume</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sajid-Hameed/">🧩 My LeetCode Profile</a>
 </p>
 
 ---
@@ -133,28 +157,34 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SajidHameed2120&show_icons=true&theme=tokyonight&hide_border=true" />
-
   <img width="48%" src="https://streak-stats.demolab.com/?user=SajidHameed2120&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHameed2120&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=SajidHameed2120&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💡 Interests
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SajidHameed2120&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+🤖 AI & Machine Learning   •  
+💻 Software Development   •  
+⚙️ Backend Development   •  
+📊 Data Analysis   •  
+⚛️ Quantum Computing   •  
+🔬 Emerging Technologies
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<p align="center">
+  <i>"Always learning, building, and exploring new technologies."</i>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SajidHameed2120/SajidHameed2120/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  ⭐ Feel free to explore my repositories and connect with me!
 </p>
