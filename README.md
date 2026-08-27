@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Sajid--Hameed-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
-  <a href="https://drive.google.com/drive/folders/1iJIzg_cuzl1c9zX1cjHgZyjvBick9nGd">
+  <a href="https://drive.google.com/drive/u/1/folders/1REaV5DiCk7_LApZtp48Ci2UIxbo8XXzy">
     <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
