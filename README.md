@@ -146,7 +146,7 @@ An IoT-based automation project for controlling electrical appliances such as li
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1iJIzg_cuzl1c9zX1cjHgZyjvBick9nGd">📄 View My Resume</a>
+  <a href="">📄 View My Resume</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sajid-Hameed/">🧩 My LeetCode Profile</a>
 </p>
